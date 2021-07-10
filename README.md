@@ -1,7 +1,5 @@
 # Matlab code for Content Based Image Retrieval
 
-This repository contains Matlab code for paper entitled "An Integrated Approach to Content Based Image Retrieval" [1]. The images are downloaded from [2]
-
 # Program Design
 
 The program can be run using Matlab. I tried to use as less toolbox as possible so the program is portable to all versions of Matlab. Therefore, I avoid using GUI as I am not quite sure that the library of the GUI for each version of matlab is similar.
@@ -23,7 +21,7 @@ The query image is set by filename variable in cbir_rank.m and cbir_threshold.m.
 
 # Limitations, if any
 
-Because it uses histogram for LBP, then it is quite robust to image size. However, based on the paper, the accuracy of this method is less than 80%
+Because it uses histogram for LBP, then it is quite robust to image size. However, the accuracy of this method is less than 80%
 
 # Details of What the Modules Do
 
@@ -50,5 +48,4 @@ Because it uses histogram for LBP, then it is quite robust to image size. Howeve
     a. Input: -
     b. Output : fvect.mat --> a file containing fvect variable
 
-[1] http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6968394 
-[2] http://wang.ist.psu.edu/docs/related/
+
