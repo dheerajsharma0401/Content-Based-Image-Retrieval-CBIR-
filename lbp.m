@@ -13,7 +13,6 @@ function lbpval = lbp(image, R)
 % Modification note: we find the histogram, not all the lbp values
 % histogram is chosen because it will make the algorithm to be dependent to
 % image size
-% Last modified: 31 March 2016
 % %=======================================================================
 
 % if the input 
