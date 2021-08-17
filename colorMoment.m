@@ -2,11 +2,6 @@ function colorMoments = colorMoment(image)
 
 % %=======================================================================
 % This function computes the color moment of the input image
-% The color moment is calculated based on method proposed by Stricker and
-% Orengo [1]
-% [1] Stricker, M. and Orengo, M.: "Similarity of Color Images" in Proc.
-% SPIE Storage and Retrieval for Still Image and Video Databases III,
-% February 1995, San Jose, CA, USA, pp. 381-392
 % %=======================================================================
 
 % convert from rgb to hsv
