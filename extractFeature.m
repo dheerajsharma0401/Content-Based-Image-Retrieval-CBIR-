@@ -6,7 +6,6 @@ clc
 % This function computes the feature vector of each image
 % The feature vector contains color moment and lbp
 % This function should be run before running cbir_rank.m
-% Author: Dheeraj Sharma
 % %=======================================================================
 
 % folder for the images
