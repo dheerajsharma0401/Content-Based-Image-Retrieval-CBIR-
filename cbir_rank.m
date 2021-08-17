@@ -11,7 +11,6 @@ clc
 % on the similar path
 %
 % Author: Dheeraj Sharma
-% Date modified: 20 Dec 2020
 % %=======================================================================
 
 % folder for the images
