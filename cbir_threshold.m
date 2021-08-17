@@ -5,7 +5,6 @@ clc
 % %=======================================================================
 % This function run content based image retrieval using certain threshold
 % Author: Dheeraj Sharma
-% Date modified: 20 December 2020
 % %=======================================================================
 
 % folder for the images
