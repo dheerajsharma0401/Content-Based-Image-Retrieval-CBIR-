@@ -4,15 +4,15 @@ clc
 
 % %=======================================================================
 % This function run content based image retrieval using certain threshold
-% Author: Arwan Ahmad Khoiruddin
-% Date modified: 30 March 2016
+% Author: Dheeraj Sharma
+% Date modified: 20 December 2020
 % %=======================================================================
 
 % folder for the images
 imgpath = 'img_test';
 
 % query image. Change your image name here
-filename = '586.jpg';
+filename = '596.jpg';
 
 % threshold set for minimum eucledian distance that is considered similar
 th = 3.6e3;
