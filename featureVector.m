@@ -2,8 +2,7 @@ function f = featureVector(image)
 % %=======================================================================
 % This function computes the feature vector of each image
 % The feature vector contains color moment and lbp
-% Author: Arwan Ahmad Khoiruddin
-% Last modified: 31 March 2016
+% Author: Dheeraj Sharma
 % %=======================================================================
 
 % calculate color moment of input image
