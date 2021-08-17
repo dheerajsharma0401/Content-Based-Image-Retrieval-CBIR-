@@ -10,15 +10,15 @@ clc
 % Please note that imgpath in extractFeature and cbir_threshold must be
 % on the similar path
 %
-% Author: Arwan Ahmad Khoiruddin
-% Date modified: 30 March 2016
+% Author: Dheeraj Sharma
+% Date modified: 20 Dec 2020
 % %=======================================================================
 
 % folder for the images
 imgpath = 'image.orig';
 
 % query image. Change your image name here
-filename = '409.jpg';
+filename = '420.jpg';
 
 % number of similar images to be found
 nsim = 10;
