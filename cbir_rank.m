@@ -9,7 +9,6 @@ clc
 % Before running this, you should run extractFeature.m first
 % Please note that imgpath in extractFeature and cbir_threshold must be
 % on the similar path
-%
 % Author: Dheeraj Sharma
 % %=======================================================================
 
